@@ -23,4 +23,4 @@ If you reference or use UDE in your research, please cite:
 The source code is released under [Apache 2.0](https://aws.amazon.com/apache-2-0/).
 
 ## Resources
-* [Unified Distributed Environment](https://github.com/aws-deepracer/ude)
+* [Unified Distributed Environment](https://github.com/juhgiyo/ude)
